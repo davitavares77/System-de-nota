@@ -1,10 +1,6 @@
 package com.java.sga.model;
 
-public class Professor extends Pessoa {
-    private String disciplina;
-    private String listaTurmas;
-
-    //Construtores
+public class Professor {
 
     //Getters e Setters
 }
